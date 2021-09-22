@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/colt_whyred.mk
+    $(LOCAL_DIR)/spark_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    colt_whyred-user \
-    colt_whyred-userdebug \
-    colt_whyred-eng
+    spark_whyred-user \
+    spark_whyred-userdebug \
+    spark_whyred-eng
